@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.sourceforge.jsonedit.feature_0.9.51.jar" id="org.sourceforge.jsonedit.feature" version="0.9.51">
+      <category name="org.sourceforge.jsonedit"/>
+   </feature>
+   <category-def name="org.sourceforge.jsonedit" label="JSON Editor"/>
+</site>

@@ -9,6 +9,7 @@
     <module>org.sourceforge.jsonedit.core</module>
     <module>org.sourceforge.jsonedit.test</module>
     <module>org.sourceforge.jsonedit.feature</module>
+    <module>org.sourceforge.jsonedit.site</module>
   </modules>
 
   <properties>
